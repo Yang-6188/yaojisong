@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 /**
- 菜品
+ 药品
  */
 @Data
 public class Medicine implements Serializable {
@@ -25,7 +25,7 @@ public class Medicine implements Serializable {
     /**
      * 分类的id：关联的是其中的某一个分类
      */
-    //菜品分类id
+    //药品分类id
     private Long categoryId;
 
 

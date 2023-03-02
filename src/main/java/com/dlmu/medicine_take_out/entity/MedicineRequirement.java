@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 /**
-菜品口味
+药品
  */
 @Data
 /**

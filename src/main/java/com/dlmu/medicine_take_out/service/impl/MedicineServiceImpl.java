@@ -25,7 +25,7 @@ public class MedicineServiceImpl extends ServiceImpl<MedicineMapper, Medicine> i
     private MedicineRequirementService medicineRequirementService;
 
     /**
-     * 新增菜品，同时保存对应的口味数据
+     * 新增药品，同时保存对应的口味数据
      * @Transactional设计多张表的操作就开启事务注解
      */
 
